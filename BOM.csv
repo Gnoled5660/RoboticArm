@@ -1,6 +1,6 @@
-Name, Purpose, Cost (USD), Quantity, Total (USD), Link, Distributor, Already have them at home?
-Momentary toggle switch, for the control panel, 1.32, 5, 6.60, https://www.amazon.de/Heschen-Mini-Kippschalter-MTS-123-3-polig-gelistet/dp/B07H5NX4G9/ref=sr_1_5?__mk_de_DE=ÅMÅŽÕÑ&crid=253DXUG1UGC8W&dib=eyJ2IjoiMSJ9.IOPaly9jZ90enqrKT5sxHHfVroceGpBU0_ehkGwvliJYqz4TCrl6ijnb807gxQlcaXQzfX59XDelwew0UEwz5od-8GCgeuiMbT9p4Gl9mOrhe2E226P5sRMMQRv5mCpt0xqg1dWga4JbNM8nraGNGQzdYG26OoWp1Z9vJi_iNGafwcysdnRI9r1t_K1dig3fx9MYtrXpei0cuqctjqnccuIUXWCV1k1sZVdFK4Qvp4E.845GuL65VSKNes9LXezr0XLjdcPU37-TD2KUbIcsNtw&dib_tag=se&keywords=momentary+toggle+switch&qid=1772930292&sprefix=momentory+toggle+switch%2Caps%2C244&sr=8-5, Amazon, False
-MG90S, Hand Control, None, 2, None, None, None, True
-MG996R, Rotating axis, None, 3, None, None, None, True
-Arduino, System Control, None, 1, None, None, None, True
-Meanwell 5V 10A, Power supply, None, 1, None, None, None, True
+Name, Purpose, Cost (USD), Quantity, Total (USD), Already have them at home?, Distributor, Link
+Momentary toggle switch, for the control panel, 1.32, 5, 6.60, False, Amazon, https://www.amazon.de/Heschen-Mini-Kippschalter-MTS-123-3-polig-gelistet/dp/B07H5NX4G9/ref=sr_1_5?__mk_de_DE=ÅMÅŽÕÑ&crid=253DXUG1UGC8W&dib=eyJ2IjoiMSJ9.IOPaly9jZ90enqrKT5sxHHfVroceGpBU0_ehkGwvliJYqz4TCrl6ijnb807gxQlcaXQzfX59XDelwew0UEwz5od-8GCgeuiMbT9p4Gl9mOrhe2E226P5sRMMQRv5mCpt0xqg1dWga4JbNM8nraGNGQzdYG26OoWp1Z9vJi_iNGafwcysdnRI9r1t_K1dig3fx9MYtrXpei0cuqctjqnccuIUXWCV1k1sZVdFK4Qvp4E.845GuL65VSKNes9LXezr0XLjdcPU37-TD2KUbIcsNtw&dib_tag=se&keywords=momentary+toggle+switch&qid=1772930292&sprefix=momentory+toggle+switch%2Caps%2C244&sr=8-5
+MG90S, Hand Control, None, 2, None, True, None, None
+MG996R, Rotating axis, None, 3, None, True, None, None
+Arduino, System Control, None, 1, None, True, None, None
+Meanwell 5V 10A, Power supply, None, 1, None, True, None, None
