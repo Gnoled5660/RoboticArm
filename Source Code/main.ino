@@ -36,7 +36,9 @@ void loop() {
     else if (digitalRead(pinsDown[i]) == LOW) {
       pwm.setPWM(0, 0, stopValue - val);
     }
-    
+    else{
+      pwm.setPWM(i, 0, 0);
+    }  
   }
 
   delay(50);
